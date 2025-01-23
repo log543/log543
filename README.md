@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @log543
-- 👀 I’m interested in web development and crypto.
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript.
-- I am new to Github, I could use some help.
 
 <!---
 log543/log543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
